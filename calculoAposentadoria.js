@@ -45,7 +45,6 @@ if (sexo == 'M') {
 
 
 /* 
-JEITO MELHOR DE FAZER 
 const nome = 'Silvana'
 const sexo = 'F'
 const idade = 100
