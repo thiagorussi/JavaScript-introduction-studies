@@ -23,6 +23,13 @@ SE a pessoa NÃO estiver aposentada: Silvana, você ainda não pode se aposentar
 Dica: Você pode unir duas condições, veja o exemplo abaixo
 
 ====================================================================================================*/
+const nome = 'Silvana'
+const sexo = 'F'
+const idade = 48
+const contribuicao = 23
+
+
+
 if (sexo == 'F') {
     
     if (aposentadoria >= 85 && contribuicao >= 30){
