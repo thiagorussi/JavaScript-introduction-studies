@@ -1,3 +1,3 @@
-## Meus estudos de JavaScript puro
+## Meus estudos de JavaScript
 
-<a href="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">Visit W3Schools</a>
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" alt="Smiley face" height="42" width="42">
