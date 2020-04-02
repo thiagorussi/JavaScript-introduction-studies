@@ -43,22 +43,3 @@ if (sexo == 'M') {
     }
 }
 
-
-/* 
-const nome = 'Silvana'
-const sexo = 'F'
-const idade = 100
-const contribuicao = 30
-let calc = (idade + contribuicao);
-
-
-if (contribuicao >= 30 && sexo == 'F' || contribuicao >= 35 && sexo == 'M' ) {
-    if (calc >= 85 && sexo == 'F' || calc >= 95 && sexo == 'M') {
-        console.log(`${nome}, você pode se aposentar`);
-    } else {
-        console.log(`${nome}, Não pode se aposentar`);
-    }
-} else {
-    console.log(`${nome}, Não pode se aposentar`);
-} */
-
